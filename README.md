@@ -31,7 +31,7 @@ Zie backend: https://github.com/TalhaFerahPXL/Swym-Login-Frontend
 
 ## 🔍 Onderzoek
 Lees mijn proef over de inlogprocessen
-* *https://github.com/TalhaFerahPXL/SparkwaveAi/blob/main/Graduaatsproef_Ferah_Talha.pdf*
+* *https://github.com/TalhaFerahPXL/SparkwaveAi-Frontend/blob/main/Graduaatsproef_Ferah_Talha.pdf*
 
 
 # 📸 Screenshots
