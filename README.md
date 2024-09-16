@@ -1,6 +1,6 @@
 ﻿# SparkwaveAi
  
-Dit project richt zich op de ontwikkeling van een authenticatiesysteem voor webapplicaties waarbij gebruikers de mogelijkheid hebben om in te loggen via hun Google-account of een persoonlijk e-mailadres. Ik heb zowel de front-end als de back-end zelfstandig ontwikkeld.
+Ik heb een gedeeltelijke webapp ontwikkeld waarbij ik verantwoordelijk was voor zowel de front-end als de back-end functionaliteiten. Gebruikers kunnen inloggen met Google of registreren/inloggen met hun e-mailadres. Wachtwoorden worden gehasht met bcrypt en veilig opgeslagen. Bij het inloggen wordt er een JWT gecreëerd in de back-end en naar de front-end gestuurd om gebruikers te verifiëren en ingelogd te houden. Wanneer gebruikers content willen genereren of een aankoop willen doen, moeten ze hun identiteit verifiëren via een verificatiemail. Ook heb ik het dashboard zelfstandig ontwikkeld.
 
 Zie backend: https://github.com/TalhaFerahPXL/Swym-Login-Frontend
 
